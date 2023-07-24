@@ -15,5 +15,5 @@ Group both objects together and your hover underlined button is complete.
   <img src="assets/gifs/Button_Underlined_HoverEffect_gif01.gif"/>
 </h1>
 
-## Files
-[File with the example](https://www.youtube.com/watch?v=6hPgIJBX5ew)
+## Downloads
+<a href="assets/pbix/Button_Underlined_HoverEffect.pbix" download>File with example</a>
