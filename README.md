@@ -1,4 +1,4 @@
-# PowerBI-Tips
+# Power BI Tips
 Here you will find practical tips to apply in your Power BI projects.
 
 
