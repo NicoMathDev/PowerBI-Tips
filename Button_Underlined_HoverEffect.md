@@ -12,5 +12,8 @@ Order the line behind the button, then select the button and change the fill col
 
 Group both objects together and your hover underlined button is complete.
 <h1 align="left">
-  <img src="assets/images/Button_Underlined_HoverEffect_gif01.gif"/>
+  <img src="assets/gifs/Button_Underlined_HoverEffect_gif01.gif"/>
 </h1>
+
+## Files
+[File with the example](https://www.youtube.com/watch?v=6hPgIJBX5ew)
